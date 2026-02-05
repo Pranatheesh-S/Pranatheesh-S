@@ -31,14 +31,14 @@ I'm a developer passionate about building impactful solutions. My journey involv
 </div>
 
 <br />
-
+<!-- 
 ## 🧠 LeetCode Analysis
 
 <div align="center">
-  <img src="https://leetcode-stats-card.vercel.app/api?username=PRANATHEESH_S&theme=github-dark" alt="LeetCode Stats" />
+  <img src="leetcode_stats.svg" alt="LeetCode Stats" />
 </div>
 
-<br />
+<br /> -->
 
 ## 🚀 GitHub Analysis
 
