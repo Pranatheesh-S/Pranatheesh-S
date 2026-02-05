@@ -32,16 +32,10 @@ I'm a developer passionate about building impactful solutions. My journey involv
 
 <br />
 
-## 📊 GitHub Stats
-
-
-
-<br />
-
 ## 🧠 LeetCode Analysis
 
 <div align="center">
-  <img src="https://leetcode-stats-six.vercel.app/?username=PRANATHEESH_S&theme=dark&no-border=true" alt="LeetCode Stats" />
+  <img src="https://leetcodestats.de/api/image/PRANATHEESH_S?theme=Dark" alt="LeetCode Stats" />
 </div>
 
 <br />
