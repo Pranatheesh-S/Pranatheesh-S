@@ -35,7 +35,7 @@ I'm a developer passionate about building impactful solutions. My journey involv
 ## 🧠 LeetCode Analysis
 
 <div align="center">
-  <img src="https://leetcodestats.de/api/image/PRANATHEESH_S?theme=Dark" alt="LeetCode Stats" />
+  <img src="https://leetcode-stats-card.vercel.app/api?username=PRANATHEESH_S&theme=github-dark" alt="LeetCode Stats" />
 </div>
 
 <br />
