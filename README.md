@@ -1,6 +1,4 @@
-<div align="center">
-  <img src="header.png" width="100%" alt="Banner" />
-</div>
+
 
 <h1 align="center">Hi there, I'm Pranatheesh S <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1>
 
