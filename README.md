@@ -10,9 +10,6 @@
   <a href="https://leetcode.com/u/PRANATHEESH_S/">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" />
   </a>
-  <a href="https://github.com/Pranatheesh-S">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
 </p>
 
 <br />
@@ -30,7 +27,7 @@ I'm a developer passionate about building impactful solutions. My journey involv
 ## 🛠️ Tech Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,js,html,mysql,react,flask,nextjs,git,github" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,js,html,react,nextjs,tailwind,nodejs,express,flask,mysql,mongodb,firebase,git,github" />
 </div>
 
 <br />
