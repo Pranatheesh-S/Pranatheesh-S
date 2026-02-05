@@ -30,7 +30,7 @@ I'm a developer passionate about building impactful solutions. My journey involv
 ## 🛠️ Tech Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,js,html,css,mysql,react,flask,nextjs,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,js,html,css,mysql,react,flask,nextjs,git,github" />
 </div>
 
 <br />
