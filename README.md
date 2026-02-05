@@ -34,23 +34,14 @@ I'm a developer passionate about building impactful solutions. My journey involv
 
 ## 📊 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Pranatheesh-S&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Pranatheesh-S's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pranatheesh-S&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" />
-</div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pranatheesh-S&theme=tokyonight&hide_border=true&background=0D1117" alt="Streak" />
-</div>
 
 <br />
 
 ## 🧠 LeetCode Analysis
 
 <div align="center">
-  <a href="https://leetcode.com/u/PRANATHEESH_S/">
-    <img src="https://leetcard.jacoblin.cool/PRANATHEESH_S?theme=tokyonight&font=Inter&ext=heatmap" alt="LeetCode Stats" />
-  </a>
+  <img src="https://leetcode-stats-six.vercel.app/?username=PRANATHEESH_S&theme=dark&no-border=true" alt="LeetCode Stats" />
 </div>
 
 <br />
