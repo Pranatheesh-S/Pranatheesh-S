@@ -1,5 +1,3 @@
-
-
 <h1 align="center">Hi there, I'm Pranatheesh S <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1>
 
 <p align="center">
@@ -26,28 +24,46 @@ I'm a developer passionate about building impactful solutions. My journey involv
 
 ## 🛠️ Tech Stack
 
+| Category | Tools |
+| :--- | :--- |
+| **Languages** | `C`, `C++`, `Java`, `Python`, `JavaScript` |
+| **Frontend** | `React`, `Next.js`, `Tailwind CSS`, `HTML5`, `CSS3` |
+| **Backend** | `Node.js`, `Express`, `Flask`, `FastAPI` |
+| **AI / ML** | `PyTorch`, `TensorFlow`, `Scikit-Learn`, `HuggingFace` |
+| **Database** | `MySQL`, `MongoDB`, `Firebase` |
+| **DevOps/Tools** | `Git`, `GitHub` |
+
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,js,html,react,nextjs,tailwind,nodejs,express,flask,mysql,mongodb,firebase,git,github" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,js,html,react,nextjs,tailwind,nodejs,express,flask,fastapi,pytorch,tensorflow,sklearn,mysql,mongodb,firebase,git,github" />
 </div>
 
 <br />
-<!-- 
-## 🧠 LeetCode Analysis
 
-<div align="center">
-  <img src="leetcode_stats.svg" alt="LeetCode Stats" />
-</div>
+## 📊 LeetCode Stats
 
-<br /> -->
+<p align="center">
+  <a href="https://leetcode.com/u/PRANATHEESH_S/">
+    <img src="https://leetcard.jacoblin.cool/Pranatheesh_s?theme=dark&font=Baloo&ext=heatmap" alt="LeetCode Stats" />
+  </a>
+</p>
+
+<br />
 
 ## 🚀 GitHub Analysis
 
-<!-- PASTE YOUR GITHUB ANALYSIS HERE -->
-Analyzing my repositories reveals a strong focus on:
-*   **Web Development**: Consistent commits in projects leveraging React, Next.js, and Flask.
-*   **AI Integration**: Active experimentation with AI models and backend integration (as seen in AI Ignite projects).
-*   **Problem Solving**: Regular engagement with algorithmic challenges.
+<!-- <p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PRANATHEESH-S&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PRANATHEESH-S&layout=compact&theme=dark" />
+</p> -->
 
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PRANATHEESH-S&theme=dark" alt="GitHub Streak" />
+</p>
+
+### 🔍 Key Areas of Focus
+* **Web Development:** Scaling applications using **React**, **Next.js**, and **FastAPI**.
+* **AI Integration:** Designing and deploying LLM-based solutions and backend pipelines.
+* **Algorithmic Rigor:** Consistently optimizing code for performance and efficiency.
 
 ---
 
